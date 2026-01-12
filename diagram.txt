@@ -1,0 +1,12 @@
+MPU6050   ESP32
+VCC  ->  3.3V
+GND  ->  GND
+SCL  ->  GPIO22 (SCL)
+SDA  ->  GPIO21 (SDA)
+
+
+MPU6050   ESP32
+VCC  ->  3.3V
+GND  ->  GND
+SCL  ->  GPIO22 (SCL)
+SDA  ->  GPIO21 (SDA)
