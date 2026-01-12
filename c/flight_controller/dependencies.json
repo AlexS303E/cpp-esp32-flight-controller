@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "cjson": "~1.7.17"
+    }
+}

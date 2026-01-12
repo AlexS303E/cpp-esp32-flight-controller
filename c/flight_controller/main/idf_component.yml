@@ -1,0 +1,10 @@
+repositories:
+  esp-idf-lib:
+    type: git
+    url: https://github.com/UncleRus/esp-idf-lib.git
+    path: components
+
+dependencies:
+  espressif/cjson: "*"
+  idf:
+    version: '>=5.0.0'
