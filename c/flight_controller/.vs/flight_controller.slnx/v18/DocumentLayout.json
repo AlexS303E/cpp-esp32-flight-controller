@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\json_creator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\json_creator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\json_creator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\json_creator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_fusion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\sensor_fusion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_fusion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\sensor_fusion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\qmc5883l.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\qmc5883l.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\qmc5883l.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\qmc5883l.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\mpu6050.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\mpu6050.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\mpu6050.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\mpu6050.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\i2c_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\i2c_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\i2c_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\i2c_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\sensor_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "main\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\CMakeLists.txt",
+              "RelativeToolTip": "main\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-17T17:48:57.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-17T17:48:51.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "json_creator.c",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\json_creator.c",
+              "RelativeDocumentMoniker": "main\\json_creator.c",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\json_creator.c",
+              "RelativeToolTip": "main\\json_creator.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-17T17:40:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "json_creator.h",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\json_creator.h",
+              "RelativeDocumentMoniker": "main\\json_creator.h",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\json_creator.h",
+              "RelativeToolTip": "main\\json_creator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-17T17:39:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sensor_fusion.c",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_fusion.c",
+              "RelativeDocumentMoniker": "main\\sensor_fusion.c",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_fusion.c",
+              "RelativeToolTip": "main\\sensor_fusion.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-17T17:38:53.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sensor_fusion.h",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_fusion.h",
+              "RelativeDocumentMoniker": "main\\sensor_fusion.h",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_fusion.h",
+              "RelativeToolTip": "main\\sensor_fusion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-17T17:38:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "qmc5883l.c",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\qmc5883l.c",
+              "RelativeDocumentMoniker": "main\\qmc5883l.c",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\qmc5883l.c",
+              "RelativeToolTip": "main\\qmc5883l.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-17T17:38:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "qmc5883l.h",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\qmc5883l.h",
+              "RelativeDocumentMoniker": "main\\qmc5883l.h",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\qmc5883l.h",
+              "RelativeToolTip": "main\\qmc5883l.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-17T17:38:01.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mpu6050.c",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\mpu6050.c",
+              "RelativeDocumentMoniker": "main\\mpu6050.c",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\mpu6050.c",
+              "RelativeToolTip": "main\\mpu6050.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-17T17:37:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mpu6050.h",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\mpu6050.h",
+              "RelativeDocumentMoniker": "main\\mpu6050.h",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\mpu6050.h",
+              "RelativeToolTip": "main\\mpu6050.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-17T17:36:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "i2c_manager.c",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\i2c_manager.c",
+              "RelativeDocumentMoniker": "main\\i2c_manager.c",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\i2c_manager.c",
+              "RelativeToolTip": "main\\i2c_manager.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-17T17:36:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "i2c_manager.h",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\i2c_manager.h",
+              "RelativeDocumentMoniker": "main\\i2c_manager.h",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\i2c_manager.h",
+              "RelativeToolTip": "main\\i2c_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-17T17:36:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sensor_data.h",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_data.h",
+              "RelativeDocumentMoniker": "main\\sensor_data.h",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\sensor_data.h",
+              "RelativeToolTip": "main\\sensor_data.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-17T17:35:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\main.c",
+              "RelativeDocumentMoniker": "main\\main.c",
+              "ToolTip": "C:\\Users\\Alex Sol\\Documents\\GitHub\\cpp-esp32-flight-controller\\c\\flight_controller\\main\\main.c",
+              "RelativeToolTip": "main\\main.c",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-17T17:33:20.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
